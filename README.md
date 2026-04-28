@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/Banner.png" width="100%" />
+<img src="./public/Banner.png" width="100%" />
 <br/>
 
 # Crystal Coral Dsouza
